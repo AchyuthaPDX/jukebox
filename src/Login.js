@@ -9,6 +9,8 @@ export default function login(){
         style={{minHeight:"100vh"
     /*backgroundImage: ("https://iotgadgets.com/wp-content/uploads/2017/01/Smartphone-App-Saavn-Music-Samsung-Z1-Z2-Z3-Tizen-Experts-Store-700.png")*/}}>
         <a class="btn btn-success btn-lg" href={auth}>Savaan</a>
+        
     </Container>
+    
     )
 }
