@@ -1,4 +1,4 @@
-import React from "react"
+ /*import React from "react"
 
 export default function TrackSearchResult({ track, chooseTrack }) {
   function handlePlay() {
@@ -18,4 +18,4 @@ export default function TrackSearchResult({ track, chooseTrack }) {
       </div>
     </div>
   )
-}
+}*/
