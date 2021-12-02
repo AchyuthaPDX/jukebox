@@ -22,9 +22,6 @@ export default function login() {
 
                 <div className="text-center">
                     <main role="main" class="inner cover">
-
-                        
-
                         <h2 className="cover-heading" style={{ fontWeight: "bold", color: "white" }}>Discover. Listen. Repeat.</h2>
                         <a className="btn btn-lg " style={{ borderRadius: "500px", backgroundColor: "white", width: "200px" }} href={auth}>Try it</a>
                     </main>
