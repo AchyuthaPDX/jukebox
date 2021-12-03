@@ -1,0 +1,3 @@
+npm i spotify-web-api-node
+npm i lyrics-finders
+
