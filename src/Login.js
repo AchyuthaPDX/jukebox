@@ -18,7 +18,7 @@ export default function login() {
             </Navbar>
 
             <div className="cover-container d-flex justify-content-center align-items-center h-100 mask"
-                style={{ minHeight: "100vh", backgroundColor: "#39A6A3", backgroundImage: `url(${background})`, backgroundSize: 'cover', outerWidth: 100, opacity: 0.9 }}>
+                style={{ minHeight: "100vh", backgroundColor: "white", backgroundImage: `url(${background})`, backgroundSize: 'cover', outerWidth: 100, opacity: 0.9 }}>
 
                 <div className="text-center">
                     <main role="main" class="inner cover">
